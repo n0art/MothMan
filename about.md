@@ -1,7 +1,8 @@
 # MothMan
 
-This text appears in the overlay opened by the `ABOUT` label. Click `X` to close and return to the 3D view.
+
 UNINVITED 
+
 Reposting Martina Menegon's statement created in response to the Wiener Festwochen festival's invitation of Peter Thiel
 
 As a participating curator and artist of TRANSMYTHICAL (a project by the Transmediale Kunst class, with student interventions, installations, performances, concerts, workshops), I condemn Milo Rau's decision to invite Peter Thiel to the Wiener Festwochen.
